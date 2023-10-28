@@ -3,4 +3,4 @@
 	url = https://github.com/weirdball7/odin-recipes
 [submodule "odin-landing-page"]
 	path = odin-landing-page
-	url = git@github.com:weirdball7/odin-landing-page.git
+	url = https://github.com/weirdball7/odin-landing-page.git
