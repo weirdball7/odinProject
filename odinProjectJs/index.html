@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Js</title>
+</head>
+<body>
+    <script>
+        console.log('Hello World!');
+        let admin;
+        let name;
+        name = 'John';
+        admin = name;
+        // alert(admin);
+
+
+        // adds 7 to a number
+        const addSeven = number => {
+            console.log(number * 7);
+        };
+        addSeven(88);
+
+
+        // multiply numbers
+        const multiply = (number1, number2) => {
+            console.log(number1 * number2);
+        }
+        multiply(344637, 7578);
+
+
+        // capitelize string
+        const capitelize = string => {
+            let firstLetter = string[0];
+            let firstLetterCap = firstLetter.toUpperCase();
+            // console.log(firstLetterCap);
+            let strSliced = string.slice(1);
+            // console.log(strSliced);
+            let newString = firstLetterCap + strSliced;
+            console.log(newString);
+        };
+        capitelize("cat");
+
+        const lastLetter = str => {
+            console.log(str[str.length-1]);
+        };
+        lastLetter('yabdab');
+    </script>
+</body>
+</html>
