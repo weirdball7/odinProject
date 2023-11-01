@@ -4,3 +4,6 @@
 [submodule "odin-landing-page"]
 	path = odin-landing-page
 	url = https://github.com/weirdball7/odin-landing-page.git
+[submodule "odinProjectJs/odinProject-RPS"]
+	path = odinProjectJs/odinProject-RPS
+	url = git@github.com:weirdball7/odinProject-RPS.git
