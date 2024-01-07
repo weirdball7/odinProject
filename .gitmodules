@@ -7,6 +7,12 @@
 [submodule "odinProjectJs/odinProject-RPS"]
 	path = odinProjectJs/odinProject-RPS
 	url = git@github.com:weirdball7/odinProject-RPS.git
+<<<<<<< HEAD
 [submodule "odinProject-etchASketch"]
 	path = odinProject-etchASketch
 	url = git@github.com:weirdball7/odinProject-etchASketch.git
+=======
+[submodule "odinProject-RPS"]
+	path = odinProject-RPS
+	url = https://github.com/weirdball7/odinProject-RPS.git
+>>>>>>> 2c0f64995af420c412137c795517ad61d41c786a
