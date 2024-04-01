@@ -1,0 +1,6 @@
+[submodule "OdinProjectCSSVaruables"]
+	path = OdinProjectCSSVaruables
+	url = https://github.com/weirdball7/OdinProjectCSSVaruables.git
+[submodule "CSSform"]
+	path = CSSform
+	url = https://github.com/weirdball7/CSSform.git
