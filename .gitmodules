@@ -4,3 +4,6 @@
 [submodule "CSSform"]
 	path = CSSform
 	url = https://github.com/weirdball7/CSSform.git
+[submodule "odinFormProject"]
+	path = odinFormProject
+	url = https://github.com/weirdball7/odinFormProject.git
