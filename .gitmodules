@@ -7,3 +7,6 @@
 [submodule "odinFormProject"]
 	path = odinFormProject
 	url = https://github.com/weirdball7/odinFormProject.git
+[submodule "OdinAdminDashboard"]
+	path = OdinAdminDashboard
+	url = https://github.com/weirdball7/OdinAdminDashboard.git
