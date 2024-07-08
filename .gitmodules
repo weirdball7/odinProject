@@ -10,3 +10,6 @@
 [submodule "OdinAdminDashboard"]
 	path = OdinAdminDashboard
 	url = https://github.com/weirdball7/OdinAdminDashboard.git
+[submodule "odinRestuarntProject"]
+	path = odinRestuarntProject
+	url = https://github.com/weirdball7/odinProjectRestaurantProject.git
